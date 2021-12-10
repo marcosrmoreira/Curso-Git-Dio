@@ -1,2 +1,2 @@
 # Curso-Git-Dio
-Curso de git da Dio.me
+Desafio projeto do Curso de git da Dio.me / Eduzz Tech
